@@ -91,10 +91,10 @@
                 "s3:GetObjectVersion"
             ],
             "Resource": [
-                "arn:aws:s3:::adler-and-associates-entertainment-deliverables/*",
+                "arn:aws:s3:::bucket-name/*",
                 "arn:aws:s3:*:569474161631:accesspoint/*",
                 "arn:aws:s3:*:569474161631:job/*",
-                "arn:aws:s3:::adler-and-associates-entertainment-deliverables"
+                "arn:aws:s3:::bucket-name"
             ]
         },
         {
